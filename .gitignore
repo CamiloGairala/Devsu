@@ -1,0 +1,10 @@
+# Eclipse
+bin/
+target/
+
+# IntelliJ
+.idea/
+
+# Build files
+*.class
+*.jar
